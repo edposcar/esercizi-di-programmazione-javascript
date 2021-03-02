@@ -12,3 +12,5 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var test = 17;
